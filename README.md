@@ -59,7 +59,7 @@ H1B-Visa-Analytics/
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/H1B-Visa-Analytics.git
+git clone https://github.com/shivshakti4914/H1B-Visa-Analytics.git
 cd H1B-Visa-Analytics
 pip install -r requirements.txt
 jupyter notebook
@@ -77,7 +77,7 @@ jupyter notebook
 
 ## 👤 Author
 
-**Your Name**
+**Shiv Shakti Mishra**
 
 ---
 
