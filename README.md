@@ -52,7 +52,7 @@ H1B-Visa-Analytics/
 
 ## 📈 Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard][(https://github.com/shivshakti4914/H1B-Visa-Analytics-Project/blob/main/dashboard.png)]
 
 ---
 
